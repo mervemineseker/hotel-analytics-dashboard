@@ -44,3 +44,9 @@ It contains information about reservations, guests, and hotel performance metric
 ---
 
 ## 📁 Repository Structure
+
+---
+
+### 📂 Download Project
+[Download Power BI Dashboard (.pbix)](PowerBI_Hotel_Dashboard.pbix)
+
